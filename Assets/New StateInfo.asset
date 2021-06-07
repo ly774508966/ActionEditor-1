@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f3ef7c455f41647aa06b8ae6f4d96b, type: 3}
+  m_Name: New StateInfo
+  m_EditorClassIdentifier: 
+  stateName: RunFast
+  clip: {fileID: 7400000, guid: 61be97d73968f5046b713833aa55a1ec, type: 2}
+  wrapMode: 2
+  animationEvents:
+  - frameIndex: 5
+    type: 1
